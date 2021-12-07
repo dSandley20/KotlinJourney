@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KotlinJourney</string>
+    <string name="correct">true</string>
+    <string name="incorrect">false</string>
 </resources>
