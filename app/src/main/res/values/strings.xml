@@ -2,4 +2,6 @@
     <string name="app_name">KotlinJourney</string>
     <string name="correct">true</string>
     <string name="incorrect">false</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
 </resources>
